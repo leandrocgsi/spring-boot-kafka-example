@@ -1,1 +1,1 @@
-# spring-boot-kafka-example
+# Spring Boot and Apache Kafka Example Project
